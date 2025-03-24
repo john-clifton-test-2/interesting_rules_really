@@ -19,7 +19,7 @@ update_and_show_counter(counter)
 
 def complicated_code(input):
     a=1
-    b=2
+    b=2 # testing
     c=3
     d=4
     counter = 1
